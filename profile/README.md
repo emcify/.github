@@ -1,5 +1,4 @@
-# Emcify
-[emcify.cz](https://emcify.cz/en/)
+[![logo](/img/logo.png)](https://emcify.cz/en/)
 
 ![banner](/img/banner.jpg)
 
