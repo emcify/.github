@@ -7,6 +7,16 @@ We are a team of two friends who like to create with code. We believe that **peo
 
 We use a database full of publicly available data and a few clever algorithms to generate cities in Minecraft. Thanks to that, you can walk around real places and enjoy the game as it was intended, but in your neighbourhood.
 
-# Projects
+<br>
+
+## Current projects
+
+<br>
 
 [![Brno](/img/brno.png)](https://github.com/emcify/brno)
+
+<br>
+
+## Contact
+
+Website: [emcify.cz](https://emcify.cz/en/)
